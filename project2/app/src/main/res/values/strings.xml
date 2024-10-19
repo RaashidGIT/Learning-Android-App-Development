@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">project2</string>
+    <string name="mult">X</string>
+    <string name="div">/</string>
+    <string name="sub">-</string>
+    <string name="add">+</string>
+    <string name="no_2">No.2:</string>
+    <string name="no_1">No.1:</string>
+</resources>

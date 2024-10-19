@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">project17</string>
+    <string name="generate">Generate</string>
+    <string name="enter_the_number">Enter the number :</string>
+</resources>

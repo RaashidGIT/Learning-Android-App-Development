@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">project10</string>
+    <string name="settings">Settings</string>
+    <string name="about">About</string>
+    <string name="version">Version</string>
+    <string name="appbar">AppBar</string>
+</resources>
