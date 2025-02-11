@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository contains the projects developed as part of the Android App Development Lab for the B.Sc. Computer Science degree at Farook College(Autonomous). The applications are built using Java and Android Studio, showcasing various features and functionalities that are fundamental in Android development.
+This repository contains the projects developed as part of the Android App Development Lab for the B.Sc. Computer Science degree at Farook College (Autonomous). The applications are built using Java and Android Studio, showcasing various features and functionalities that are fundamental in Android development.
 
 ## Table of Contents
 
@@ -33,20 +33,23 @@ To get a copy of this project up and running on your local machine, follow these
 ### Installation
 
 1. Clone the repository:
-   ```bash
+   ```sh
    git clone https://github.com/yourusername/android-app-development-lab.git
-Open Android Studio.
+   ```
 
-Select "Open an existing Android Studio project" and navigate to the cloned repository.
+2. Open Android Studio.
 
-Wait for Gradle to sync.
+3. Select **"Open an existing Android Studio project"** and navigate to the cloned repository.
 
-Configure the SDK settings if prompted.
+4. Wait for Gradle to sync.
 
-Run the app on an emulator or a physical device.
+5. Configure the SDK settings if prompted.
 
-# Project Structure
+6. Run the app on an emulator or a physical device.
 
+## Project Structure
+
+```
 android-app-development-lab/
 ├── app/
 │   ├── src/
@@ -56,19 +59,18 @@ android-app-development-lab/
 │   │   │   └── AndroidManifest.xml
 │   └── build.gradle
 └── build.gradle
+```
 
-# Setup Instructions
-Ensure that all prerequisites are installed.
-Follow the installation steps provided above.
-Configure your Android Virtual Device (AVD) if you wish to use an emulator.
-Run the application to explore its features.
+## Setup Instructions
+Ensure that all prerequisites are installed. Follow the installation steps provided above. Configure your Android Virtual Device (AVD) if you wish to use an emulator. Run the application to explore its features.
 
-# Usage
+## Usage
 After successfully running the app, you can:
 
-Sign up or log in to access the main features.
-Navigate through different screens to test functionalities.
-Explore the code for understanding the implementation of various components.
+- Sign up or log in to access the main features.
+- Navigate through different screens to test functionalities.
+- Explore the code for understanding the implementation of various components.
 
-# License
+## License
 This project is licensed under the MIT License - see the LICENSE file for details.
+
